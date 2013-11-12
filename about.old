@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Dalana Lan</title>
+<meta name="description" content="Om du blir en fisk ska du ha samlag med pingviner." />
+<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript">
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+</head>
+<body>
+<div id="templatemo_body_wrapper">
+<div id="templatemo_wrapper">
+	    
+    <div id="templatemo_header">
+    
+        <div id="site_title"><h1><a href="http://www.templatemo.com">Free CSS Templates</a></h1></div>
+        
+        <div id="search_box">
+            <form action="#" method="get">
+            </form>
+        </div>
+        
+    </div> <!-- end of templatemo header -->
+    
+    <div id="templatemo_menu">
+        <ul>
+            <li><a href="index.html">Hem</a></li>
+            <li><a href="news.html">Senaste nytt</a></li>
+            <li><a href="portfolio.html">Tävlingar</a></li>
+            <li><a href="about.html" class="current">Om oss</a></li>
+            <li><a href="contact.html" class="last">Kontakta oss</a></li>
+        </ul>    	
+    </div> <!-- end of templatemo_menu -->
+    
+    <div id="templatemo_main">
+    
+    	<div class="col_w620 float_l">
+        	<h2>Vilka är Dalana?</h2> 
+            <img src="images/templatemo_image_05.jpg" class="image_wrapper image_fl" alt="about us" />
+            <p align="justify"><em>Vilka är Dalana då? Jo vi är en grupp på 6 st killar som kommer från Orsa och arrangerar lan i orsa. </em></p>
+			<div class="cleaner h40"></div>
+            <h3>Crew</h3> 
+            <p><img src="images/Dennis.jpg" width="86" height="48" alt="Dennis" /><a href="images/Dennis.jpg" data-lightbox="image-1" title="My caption">Dennis. Eltekninkern.</a></p>
+            <p><img src="images/JonErik.jpg" width="86" height="48" alt="Jon-Erik" /> Jon-Erik. Flummskallen på NTI</p>
+            <p><img src="images/Ossian.jpg" width="83" height="46" alt="Ossian" /> Mattias Ossian Moraeus. The Rookie</p>
+			<a href="images/Dennis.jpg" data-lightbox="image-1" title="My caption">image #1</a>
+          <p><img src="images/Zack.jpg" width="68" height="88" alt="Zack" /> Zack Klockar. The Big boss</p>
+          <p><img src="images/JimmyRazza.jpg" width="86" height="57" alt="Jimmy(v) Rasmus (h)" /> Jimmy Smedberg(v) Och Rasmus Andersson(h) Slavarna.</p>
+<p><img src="images/Filip.jpg" width="86" height="57" alt="Filip" /> Filip Slottgård. Tävlings experten</p>
+            <ul class="tmo_list float_l">
+           	  <li><a href="#">Vid stöld eller något slags av brott så kontaktars polisen.</a></li>
+                <li><a href="#">Alla som jobbar på lanet kan HLR. (Förutom Jimmy!)</a></li>
+                <li><a href="#">Lanet är 100% drog och alkoholfritt. </a></li>
+                <li><a href="http://de.forwallpaper.com"   target="_blank">Vi låser dörrarna efter kl 00:00. </a></li>
+                <li><a href="#">Man ansvarar för sina egna saker VI tar ej ansvar för trasiga/Stulna skaker</a><a href="#">.</a></li>
+                <li>Vi har en cafeteria där vi säljer dryck, pan pizza, chip m.m.</li>
+                <li>Om någon bryter mot reglerna så får den en varning men om händelsen upprepas eller om den personen bryter mot reglerna igen så blir den personen utslängd utan återbetalning.</li>
+		  </ul>
+            <p>&nbsp;</p>
+            <div class="cleaner"></div>
+            <a class="more" href="#">Mer info</a>
+        </div>
+        
+        <div class="col_w300 float_r">
+        
+        	<h3>Mer nyheter</h3>
+            
+            <div class="fp_news_box">
+            	<img src="images/templatemo_image_02.jpg" alt="News One" />
+                <h6><a href="#">Quisque ornare pulvinar lorem</a></h6>
+                Aliquam lacus turpis, dapibus eget, tincidunt eu, lobortis et, magna. Integer pellentesque dignissim diam.
+                <div class="fp_news_date">June 28, 2048</div>
+                <div class="cleaner"></div>
+            </div>
+            
+            <div class="fp_news_box">
+            	<img src="images/templatemo_image_03.jpg" alt="News Two" />
+                <h6><a href="http://de.forwallpaper.com"   target="_blank">Nullam consectetur volutpat</a></h6>
+                Nam id nibh quis nisi tristique pharetra a ut leo. Aenean vel lorem odio.
+                <div class="fp_news_date">June 24, 2048</div>
+                <div class="cleaner"></div>
+            </div>
+            
+          	<a class="more" href="#">More</a>
+            
+            <div class="cleaner h30"></div>
+            
+            <h3>Testimonials</h3>
+            <blockquote>
+                <p>In quam nibh, placerat ac, porta ac, molestie non, purus. Nunc a nulla. Suspendisse vitae orci a ligula egestas bibendum. Vestibulum ultrices. Pellentesque tempus sapien nec sem commodo ullamcorper. Aenean neque. Cras feugiat. In ut ante.</p>
+                <cite>Steven - <span>Web Designer</span></cite>
+            </blockquote>
+            
+        </div>
+        
+        <div class="cleaner"></div>
+    </div> <!-- end of main -->
+	<div id="templatemo_main_bottom"></div>
+	<div class="cleaner"></div>
+</div> <!-- end of templatemo wrapper -->
+</div> <!-- end of templatemo body wrapper -->
+
+<div id="templatemo_footer_wrapper">
+
+	<div id="templatemo_footer">
+    	Copyright © 2013 Dalana Lan
+    	  <div class="cleaner"></div>
+	</div>
+    
+</div>
+
+
+
+</body>
+</html>

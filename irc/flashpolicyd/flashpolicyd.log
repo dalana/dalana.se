@@ -1,0 +1,64 @@
+# Logfile created on 2013-10-29 04:37:49 +0100 by logger.rb/36483
+I, [2013-10-29T04:37:49.455051 #776]  INFO -- : Starting server on port 843 in process 776
+I, [2013-10-29T04:49:59.739457 #798]  INFO -- : Starting server on port 843 in process 798
+F, [2013-10-29T04:49:59.740990 #798] FATAL -- : 12885620: Can't open server: Errno::EADDRINUSE Address already in use - bind(2)
+F, [2013-10-29T04:49:59.741532 #798] FATAL -- : Shutting down main daemon thread due to: SystemExit exit
+I, [2013-10-29T04:49:59.741738 #798]  INFO -- : Server process 798 shutting down
+F, [2013-10-29T04:50:26.348127 #776] FATAL -- : Shutting down main daemon thread due to: SystemExit exit
+I, [2013-10-29T04:50:26.348532 #776]  INFO -- : Server process 776 shutting down
+I, [2013-10-29T04:50:32.185339 #810]  INFO -- : Starting server on port 843 in process 810
+I, [2013-10-29T05:20:32.186943 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 0 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T05:50:32.187633 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 1 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T06:20:32.188289 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 1 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T06:50:32.188913 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 2 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T07:20:32.189538 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 2 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T07:50:32.190147 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 3 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T08:20:32.190815 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 3 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T08:50:32.191406 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 4 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T09:20:32.192014 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 4 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T09:50:32.192645 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 5 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T10:20:32.193309 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 5 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T10:50:32.193911 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 6 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T11:20:32.194521 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 6 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T11:50:32.195122 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 7 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T12:20:32.195722 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 7 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T12:50:32.196346 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 8 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T13:20:32.196922 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 8 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T13:50:32.197511 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 9 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T14:20:32.198197 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 9 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T14:50:32.198810 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 10 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T15:20:32.199418 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 10 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T15:50:32.200002 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 11 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T16:20:32.200751 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 11 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T16:50:32.201353 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 12 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T17:20:32.201956 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 12 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T17:50:32.202559 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 13 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T18:20:32.203149 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 13 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T18:50:32.203794 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 14 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T19:20:32.204384 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 14 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T19:50:32.205008 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 15 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T20:20:32.205621 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 15 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T20:50:32.206289 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 16 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T21:20:32.206908 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 16 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T21:50:32.207507 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 17 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T22:20:32.208112 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 17 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T22:50:32.208741 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 18 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-29T23:20:32.209343 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 18 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-29T23:50:32.209960 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 19 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T00:20:32.210568 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 19 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-30T00:50:32.211171 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 20 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T01:20:32.211791 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 20 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-30T01:50:32.212388 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 21 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T02:20:32.212999 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 21 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-30T02:50:32.213664 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 22 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T03:20:32.214289 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 22 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-30T03:50:32.214898 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 23 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T04:20:32.215501 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 0 days 23 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-30T04:50:32.216128 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 1 days 0 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T05:20:32.216740 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 1 days 0 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-30T05:50:32.217388 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 1 days 1 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T06:20:32.217972 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 1 days 1 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-30T06:50:32.218588 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 1 days 2 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T07:20:32.219273 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 1 days 2 hours 30 min. 0 connection(s) in use now.
+I, [2013-10-30T07:50:32.219890 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 1 days 3 hours 0 min. 0 connection(s) in use now.
+I, [2013-10-30T08:20:32.220505 #810]  INFO -- : 15351420: Had 8 clients and 0 bogus clients. Uptime 1 days 3 hours 30 min. 0 connection(s) in use now.

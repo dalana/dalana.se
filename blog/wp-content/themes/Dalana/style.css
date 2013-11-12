@@ -1,0 +1,100 @@
+/*
+Theme Name: Jimmy
+Theme URI: http://dalana.se
+Author: Jimmy
+Author URI: http://dalana.se
+Template: twentytwelve
+Version: 1.0.0
+*/
+@import url('../twentytwelve/style.css');
+@import url("/style.css");
+html {
+    font-size: 100%;
+}
+.entry-header .entry-title {
+    font-size: 200%;
+}
+.widget-area {
+    width: 100%;
+}
+.entry-header .comments-link {
+  line-height: 1;
+  margin-top: 0;
+}
+#primary, #sidebar .widget {
+    background: none repeat scroll 0 0 #1A1A1A;
+    border: 1px solid #111111;
+}
+.commentlist .even {
+background-color:rgba(255,255,255,0.5);
+color:black;
+margin: 10px;
+}
+.commentlist .odd {
+background-color:rgba(255,255,255,0.5);
+color:black;
+margin:10px;
+} 
+.commentlist article {
+ box-shadow: 0px 0px 5px 5px #888888;
+margin-top: 20px;
+padding: 10px;
+border-radius: 20px;
+}
+.entry-title a {
+color: black;
+font-size: 200%;
+}
+.entry-summary {
+width: 460px;
+}
+.hitlar {
+background-color:rgba(255, 255, 255, 0.8);
+color: black;
+  -moz-box-shadow:    0px 0px 6px 6px #ccc;
+  -webkit-box-shadow: 0px 0px 6px 6px #ccc;
+  box-shadow:         0px 0px 6px 6px #ccc;
+margin-bottom: 20px;
+overflow: hidden;
+padding: 10px;
+border-radius: 20px;
+}
+.entry-header .comments-link {
+line-height: 2;
+width: auto;
+float: right;
+}
+.comment-form-email {
+	display:none;
+}
+.comment-form-url {
+        display:none;
+}
+
+.nazz {
+	background-color: rgb(255,255,255);
+}
+.nazi {
+	float: left;
+}
+.box_rotate {
+     -moz-transform: rotate(270deg);  /* FF3.5+ */
+       -o-transform: rotate(270deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(270deg);  /* Saf3.1+, Chrome */
+             filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=0.75);  /* IE6,IE7 */
+         -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.75)"; /* IE8 */
+	width: 100px;
+}
+.entry-title {
+	width: 200px;
+}
+.nav-previous {
+	float: right;
+        text-align: right;
+}
+.nav-next {
+        float: left;
+	text-align: left;
+}
+
+

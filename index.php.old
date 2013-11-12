@@ -1,0 +1,43 @@
+<?php
+    include 'header.php';
+?>        
+<script type="text/javascript">
+    document.getElementById("hem").className = "current";
+</script>
+    <div id="slider_wrapper">
+        <div id="slider">
+            <a href="#"><img src="images/1.png" alt="01" title="Jimmy" /></a>
+            <a href="#"><img src="images/2.png" alt="02" title="Till salu 74,36 kr" /></a>
+            <a href="#"><img src="images/3.png" alt="03" title="Ossian" /></a>
+            <a href="#"><img src="images/4.png" alt="04" title="Filip och Rasmus" /></a>
+            <a href="#"><img src="images/5.png" alt="05" title="Amandus" /></a>
+        </div>
+	</div>
+    
+    <div id="templatemo_fp_services">
+    
+<div class="fp_services_box">
+            <div class="fps_title"><a href="#">Våra lan</a></div>
+            <p>Våra lan sker oftast i Orsaskolans matsal i Orsa. Inträde kostar oftast 100kr och Lanet varar i  3 dygn.</p>
+</div>
+        
+<div class="fp_services_box l_box">
+    <div class="fps_title">Vilka är vi?</div>
+    <p>Vi är en grupp killar från orsa som arrangerar lan som bildades år Hösten 2010. Vi går under Orsas ungdoms hus Leif.</p>
+</div>
+<div class="fp_services_box">
+    <div class="fps_title">Vilka är vi?</div>
+    <p>Vi är en grupp killar från orsa som arrangerar lan som bildades år Hösten 2010. Vi går under Orsas ungdoms hus Leif.</p>
+</div>
+        <div class="fp_services_box l_box">
+            <div class="fps_title">
+              <p>Är det säkert?</p>
+            </div>
+            <p>Under våra Lan så finns det alltid någon av arrangörerna vakna och vi släpper inte in någon utomstånde till lanet förut om det är någon förälder.</p>
+        </div>
+    
+    </div> <!-- end of templatemo fp services -->
+    
+<?php
+    include 'footer.php';
+?>
