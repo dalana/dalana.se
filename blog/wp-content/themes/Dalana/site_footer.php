@@ -1,4 +1,5 @@
     </div> <!-- end of main -->
+<div style="height: 10px"></div>
 </div> <!-- end of wrap -->
 
 <div id="footer">
