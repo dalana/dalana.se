@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <title>Dalana Lan</title>
 <meta name="description" content="Om du blir en fisk ska du ha samlag med pingviner." />
-<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" type="image/png" href="/bilder/favicon.png" />
 </head>
 <body>
