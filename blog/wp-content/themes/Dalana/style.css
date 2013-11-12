@@ -7,7 +7,7 @@ Template: twentytwelve
 Version: 1.0.0
 */
 @import url('../twentytwelve/style.css');
-@import url("/style.css");
+@import url("/css/style.css");
 html {
     font-size: 100%;
 }
