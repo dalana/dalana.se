@@ -422,6 +422,8 @@ h6 {
 	margin-top: -50px; /* negative value of footer height */
 	height: 50px;
 	clear:both;
+	line-height: 1;
+	padding: 5px 0px;
 }
 
 #footer a { 
