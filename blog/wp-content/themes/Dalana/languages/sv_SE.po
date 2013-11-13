@@ -70,7 +70,7 @@ msgstr "Kategoriarkiv: %s"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
 msgstr[0] "En reaktion på &ldquo;%2$s&rdquo;"
-msgstr[1] "%1$s reaktion på &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner på &ldquo;%2$s&rdquo;"
 
 #: comments.php:42
 msgid "Comment navigation"
@@ -220,11 +220,11 @@ msgstr "Inläggsnavigering"
 
 #: functions.php:289
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
-msgstr "<span class=\"meta-nav\">&larr;</span> Äldre inlägg"
+msgstr "Äldre inlägg <span class=\"meta-nav\">&rarr;</span>"
 
 #: functions.php:290
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Nyare inlägg <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">&larr;</span> Nyare inlägg"
 
 #: functions.php:317
 msgid "Pingback:"
