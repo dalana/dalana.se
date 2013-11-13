@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Twenty Twelve sv_SE\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/twentytwelve\n"
 "POT-Creation-Date: 2013-10-24 20:32:05+00:00\n"
-"PO-Revision-Date: 2013-11-13 11:31+0100\n"
+"PO-Revision-Date: 2013-11-13 11:50+0100\n"
 "Last-Translator: Mattias Tengblad <mst@eyesx.com>\n"
 "Language-Team: WordPress Sverige <info@wpsv.se>\n"
 "Language: Svenska\n"
@@ -354,7 +354,6 @@ msgid "Twenty Twelve"
 msgstr "Twenty Twelve"
 
 #. Theme URI of the plugin/theme
-#, fuzzy
 msgid "http://wordpress.org/themes/twentytwelve"
 msgstr "http://wordpress.org/extend/themes/twentytwelve"
 

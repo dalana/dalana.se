@@ -70,8 +70,8 @@
 	<?php else : ?>
 		<div class="hitlar">
 			<div class="nazi box_rotate">
-				<?php //echo the_category(' '); ?>
-				<p><?php single_cat_title('Currently browsing '); ?>.</p>
+				<?php echo the_category(' '); ?>
+				<?php //single_cat_title('Currently browsing '); ?>
 			</div>
 			<div class="nazi entry-title">
 				<a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a>
@@ -86,7 +86,7 @@
 				<?php the_excerpt(); ?>
 			</div>
 			<div class="float_r comments-link">
-				<?php comments_popup_link( '<span class="leave-reply">' . __( 'Leave a reply', 'twentytwelve' ) . '</span>', __( '1 Reply', 'twentytwelve' ),__('%Replies', 'twentytwelve' ) ); ?>
+				<?php comments_popup_link( '<span class="leave-reply">' . __( 'Leave a reply', 'twentytwelve' ) . '</span>', __( '1 Reply', 'twentytwelve' ),__('% Replies', 'twentytwelve' ) ); ?>
 			</div>
 		</div>
 	<?php endif; // is_single() ?>

@@ -12,7 +12,7 @@ $(window).load(function() {
 		slices:15,
 		animSpeed:500,
 		pauseTime:3000,
-		startSlide:3, //Set starting Slide (0 index)
+		startSlide:0, //Set starting Slide (0 index)
 		opacity:1,
 		directionNav:false, 
 		directionNavHide:false, //Only show on ho
@@ -31,11 +31,7 @@ $(window).load(function() {
 </script>
     <div id="slider_wrapper">
         <div id="slider">
-            <a href="#"><img src="http://i.imgur.com/GHm3LO0.png" alt="01" title="Jimmy" /></a>
-            <a href="#"><img src="http://i.imgur.com/qpOGCuX.png" alt="02" title="Till salu 74,36 kr" /></a>
-            <a href="#"><img src="http://i.imgur.com/whuFai6.png" alt="03" title="Ossian" /></a>
-            <a href="#"><img src="http://i.imgur.com/JeauuRA.png" alt="04" title="Filip och Rasmus" /></a>
-            <a href="#"><img src="http://i.imgur.com/RtLFoTb.png" alt="05" title="Amandus" /></a>
+            <a href="#"><img src="/bilder/logo.png" alt="01" title="Jimmy" /></a>
         </div>
 	</div>
     
