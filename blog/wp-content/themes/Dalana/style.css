@@ -96,5 +96,8 @@ float: right;
         float: left;
 	text-align: left;
 }
-
+.archive-header, .page-header {
+	margin: 0;
+	border-bottom: 0;
+	padding: 0;
 
