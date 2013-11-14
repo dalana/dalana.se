@@ -21,9 +21,9 @@
         <ul>
             <li><a href="/index.php" id="hem">Hem</a></li>
             <li><a href="/blog/" id="nyheter">Senaste nytt</a></li>
-            <li><a href="/portfolio.php" id="tavlingar">Tävlingar</a></li>
-            <li><a href="/about.php" id="om">Om oss</a></li>
-            <li><a href="/contact.php" id="kontakt">Kontakta oss</a></li>
+            <li><a href="/tavlingar.php" id="tavlingar">Tävlingar</a></li>
+            <li><a href="/om.php" id="om">Om oss</a></li>
+            <li><a href="/kontakt.php" id="kontakt">Kontakta oss</a></li>
         </ul>
     </div> <!-- end of templatemo_menu -->
     <div id="main">

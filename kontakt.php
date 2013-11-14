@@ -35,7 +35,7 @@
         
                 <h4>Snabb Kontakt</h4>
                 
-                	<form method="post" name="send" action="send.php">
+                	<form method="post" name="send" action="skicka.php">
                     
                             <label for="author">Namn:</label> <input name="author" type="text" class="input_field" id="author" maxlength="50" />
                           	<div class="cleaner_h10"></div>
