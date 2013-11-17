@@ -354,11 +354,12 @@ h6 {
 	width: 900px;
 	padding: 30px 20px 50px; 
 	background-color:rgba(255,255,255,0.8);
-	overflow:auto;
+	overflow-x: hidden;
+	overflow-y: auto;
 	box-shadow: 10px 0px 100px -7px rgba(0,0,0,0.5), -10px 0px 100px -7px rgba(0,0,0,0.5);
 	border-bottom-left-radius: 20px; 
 	border-bottom-right-radius: 20px;
-	margin-bottom: 60px;
+	margin-bottom: 100px;
 }
 
 #main p {
@@ -422,8 +423,6 @@ h6 {
 	margin-top: -50px; /* negative value of footer height */
 	height: 50px;
 	clear:both;
-	line-height: 1;
-	padding: 5px 0px;
 }
 
 #footer a { 
@@ -435,4 +434,10 @@ h6 {
 	color: #FFF; 
 	text-decoration: none; 
 }
-
+#footer-wrap {
+	width:940px;
+	margin:0 auto;
+	height: 45px;
+	line-height:1;
+	padding:5px 0 0 0;
+}
