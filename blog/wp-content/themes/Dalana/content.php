@@ -69,14 +69,14 @@
 		</footer><!-- .entry-meta -->
 	<?php else : ?>
 		<div class="hitlar">
-			<div class="nazi box_rotate">
-				<?php echo the_category(' '); ?>
-				<?php //single_cat_title('Currently browsing '); ?>
-			</div>
-			<div class="nazi entry-title">
-				<a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a>
+			<div class="nazi">
+				<a id="nazi-link" href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a>
 				<br>
-				<?php echo get_the_author(); ?>
+				<a href="<?php echo esc_url( get_author_posts_url( get_the_author_meta( 'ID' ) ) ); ?>" rel="author">
+					<?php printf( __( '%s', 'twentytwelve' ), get_the_author() ); ?>
+				</a>
+				<br>
+				<?php echo the_category(' '); ?>
 				<br>
 				<span class="entry-date">
 					<?php echo get_the_date(); ?>
