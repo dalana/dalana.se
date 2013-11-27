@@ -441,3 +441,11 @@ h6 {
 	line-height:1;
 	padding:5px 0 0 0;
 }
+#hitler-center {
+	margin: 0 auto;
+	text-align: center;
+	width: 900px;
+}
+#bild {
+	border-radius: 20px;
+}

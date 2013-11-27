@@ -18,18 +18,40 @@
 
 <link rel="stylesheet" href="/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
 <script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-
-<script type="text/javascript">
-    document.getElementById("tavlingar").className = "current";
-</script>
-        <h2>Tävlingar</h2> 
-	<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
-	<a href="#myform" class="fancybox" style="font-size: 700%;">Herr Westin</a>
-<script type="text/javascript">
-        $(document).ready(function() {
-                $(".fancybox").fancybox();
-        });
-</script>
+<div id="hitler-center">
+	<script type="text/javascript">
+		document.getElementById("tavlingar").className = "current";
+	</script>
+			<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
+		<a href="#myform" class="fancybox"><img id="bild" src="bilder/amandus.png"></a>
+	<script type="text/javascript">
+			$(document).ready(function() {
+					$(".fancybox").fancybox();
+			});
+	</script>	
+			<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
+		<a href="#myform" class="fancybox"><img id="bild" src="bilder/amandus.png"></a>
+	<script type="text/javascript">
+			$(document).ready(function() {
+					$(".fancybox").fancybox();
+			});
+	</script>	
+			<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
+		<a href="#myform" class="fancybox"><img id="bild" src="bilder/amandus.png"></a>
+	<script type="text/javascript">
+			$(document).ready(function() {
+					$(".fancybox").fancybox();
+			});
+	</script>	
+			<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
+		<a href="#myform" class="fancybox"><img id="bild" src="bilder/amandus.png"></a>
+	<script type="text/javascript">
+			$(document).ready(function() {
+					$(".fancybox").fancybox();
+			});
+	</script>	
+	
+</div>
 <?php
     include 'footer.php';
 ?>
