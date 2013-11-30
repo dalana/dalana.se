@@ -38,25 +38,24 @@ $(window).load(function() {
     <div id="templatemo_fp_services">
     
 <div class="fp_services_box">
-            <div class="fps_title"><a href="#">Våra lan</a></div>
-            <p>Våra lan sker oftast i Orsaskolans matsal i Orsa. Inträde kostar oftast 100kr och Lanet varar i  3 dygn.</p>
+        <div class="fps_title"><a href="#">Våra lan</a></div>
+        <p>När vi arrangerar lan vill vi ge er en så bra upplevelse som möjligt i någon av Orsas lokaler. Detta görs möjligt av våra sponsorer som ni ser på sidan!</p>
 </div>
-        
-<div class="fp_services_box l_box">
-    <div class="fps_title">Zack?</div>
-    <p>Vad fan håller du på med? Det går inte att slå upp fisk i ordboken och förvänta sig att man ska få en bild på tre getter som parar sig.</p>
-</div>
+
 <div class="fp_services_box">
-    <div class="fps_title">Vilka är vi?</div>
-    <p>Vi är en grupp killar från orsa som arrangerar lan som bildades år Hösten 2010. Vi går under Orsas ungdoms hus Leif.</p>
+        <div class="fps_title"><a href="#">Vad får ni</a></div>
+        <p>För 100kr får ni inträde till våra tvånätters lan, tillträde till våra turneringar och internet. Samt får ni använda våra demo:s av spel, våra retrospel och MTG kort.</p>
 </div>
-        <div class="fp_services_box l_box" style="margin-right:0">
-            <div class="fps_title">
-              <p>Är det säkert?</p>
-            </div>
-            <p>Under våra Lan så finns det alltid någon av arrangörerna vakna och vi släpper inte in någon utomstånde till lanet förut om det är någon förälder.</p>
-        </div>
-    
+
+<div class="fp_services_box l_box">
+    <div class="fps_title"><a href="#">Säkerhet</a></div>
+    <p>Vi sätter säkerhet högt på prioriteringslistan. Vi ger er bra säkerhet med hjälp av ordningsvärdar och minst en arrangör som alltid är vaken. Vi kör även drogfritt och rökning sker bortom lokalen.</p>
+</div>
+<div class="fp_services_box"  style="margin-right:0">
+    <div class="fps_title"><a href="#">Hur betalar ni?</a></div>
+    <p>Ni betalar antingen på plats eller genom förbokning som kommer försäkra er en valfri plats. För att veta vad ni ska ha med er så gå in på <a href="#">information</a>.</p>
+</div>
+
     </div> <!-- end of templatemo fp services -->
     
 <?php
