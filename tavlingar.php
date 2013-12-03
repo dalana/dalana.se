@@ -23,28 +23,28 @@
 		document.getElementById("tavlingar").className = "current";
 	</script>
 			<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
-		<a href="#myform" class="fancybox"><img id="bild" src="bilder/amandus.png"></a>
+		<a href="#myform" class="fancybox"><img id="bild" src="bilder/lol.png"></a>
 	<script type="text/javascript">
 			$(document).ready(function() {
 					$(".fancybox").fancybox();
 			});
 	</script>	
 			<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
-		<a href="#myform" class="fancybox"><img id="bild" src="bilder/amandus.png"></a>
+		<a href="#myform" class="fancybox"><img id="bild" src="bilder/starcraft.png"></a>
 	<script type="text/javascript">
 			$(document).ready(function() {
 					$(".fancybox").fancybox();
 			});
 	</script>	
 			<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
-		<a href="#myform" class="fancybox"><img id="bild" src="bilder/amandus.png"></a>
+		<a href="#myform" class="fancybox"><img id="bild" src="bilder/minecraft.png"></a>
 	<script type="text/javascript">
 			$(document).ready(function() {
 					$(".fancybox").fancybox();
 			});
 	</script>	
 			<div style="display:none;" class="fancybox"><div id="myform" width="auto" height="auto"><p>En grym man ifrån skogen som kan sjunga lika bra som Amandus själv. På natten är han en häst men om han ramlar fyller han år 7 gånger per årljus.</p></div></div>
-		<a href="#myform" class="fancybox"><img id="bild" src="bilder/amandus.png"></a>
+		<a href="#myform" class="fancybox"><img id="bild" src="bilder/4.png"></a>
 	<script type="text/javascript">
 			$(document).ready(function() {
 					$(".fancybox").fancybox();
