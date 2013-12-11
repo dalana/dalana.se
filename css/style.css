@@ -359,7 +359,7 @@ h6 {
 	min-height: 100%;
 	clear: both;
 	width: 900px;
-	padding: 30px 20px 50px; 
+	padding: 30px 20px 30px; 
 	background-color:rgba(255,255,255,0.8);
 	overflow-x: hidden;
 	overflow-y: auto;
@@ -455,5 +455,6 @@ h6 {
 }
 #bild {
 	border-radius: 20px;
-	width: 400px;
+	width: 448px;
+	height: 200px;
 }
