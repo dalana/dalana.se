@@ -31,7 +31,7 @@ $(window).load(function() {
 </script>
     <div id="slider_wrapper">
         <div id="slider">
-            <a href="#"><img src="/bilder/filip.png" alt="01" title="Jimmy" /></a>
+            <a href="#"><img src="/bilder/dalanalogo.png" alt="01" title="Jimmy" /></a>
         </div>
 	</div>
     
