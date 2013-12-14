@@ -3218,7 +3218,7 @@ class AJAXChat {
 		$userData = array();
 		$userData['userID'] = $this->createGuestUserID();
 		$userData['userName'] = $userName;
-		$userData['userRole'] = AJAX_CHAT_GUEST;
+		$userData['userRole'] = AJAX_CHAT_USER;
 		return $userData;		
 	}
 
