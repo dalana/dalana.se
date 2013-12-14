@@ -3146,6 +3146,14 @@ class AJAXChat {
 		if($channelID === null) {
 			return false;
 		}
+		// ***** MODIFICATION - GRANT ADMINS FORCED ACCESS TO PRIVATE CHANNELS
+	        if($this->getUserRole() == AJAX_CHAT_ADMIN) {
+	            return true;
+	        }
+		// ***** MODIFICATION - GRANT MODS FORCED ACCESS TO PRIVATE CHANNELS
+	        if($this->getUserRole() == AJAX_CHAT_MODERATOR) {
+	            return true;
+	        }
 		// Return true for normal channels the user has acces to:
 		if(in_array($channelID, $this->getChannels())) {
 			return true;
