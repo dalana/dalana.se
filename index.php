@@ -29,13 +29,16 @@ $(window).load(function() {
 <script type="text/javascript">
     document.getElementById("hem").className = "current";
 </script>
-    <div id="slider_wrapper">
-        <div id="slider">
+<div id="slider_wrapper">
+	<div id="slider">
             <a href="#"><img src="/bilder/dalanalogo.png" alt="01" title="Jimmy" /></a>
         </div>
-	</div>
+	<div id="slider">
+            <a href="#"><img src="/bilder/sog.png" alt="01" title="Spel som vara nytt" /></a>
+        </div>
+</div>
     
-    <div id="templatemo_fp_services">
+<div id="templatemo_fp_services">
     
 <div class="fp_services_box">
         <div class="fps_title"><a href="#">Våra lan</a></div>
