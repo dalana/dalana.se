@@ -1135,6 +1135,14 @@ var ajaxChat = {
 						+ this.lang['userMenuWhois']
 						+ '</a></li>';
 			}
+			// CUSTOM COMMANDS TO FORCE ACCESS TO PRIVATE CHANNELS, ONLY ADMINS/MODS
+            		if(this.userRole == 2 && this.modForceAccessPrivateChannels || this.userRole == 3) {
+                		menu    += '<li><a href="javascript:ajaxChat.sendMessageWrapper(\'/join ['
+                        	+ encodedUserName
+                        	+ ']\');">'
+                        	+ this.lang['userMenuForcePCAccess']
+                        	+ '</a></li>';
+            		}
 		} else {
 			menu 	= '<li><a href="javascript:ajaxChat.sendMessageWrapper(\'/quit\');">'
 					+ this.lang['userMenuLogout']
