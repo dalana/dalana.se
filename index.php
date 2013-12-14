@@ -19,7 +19,7 @@ $(window).load(function() {
 		controlNav:true, //1,2,3...
 		controlNavThumbs:false, //Use thumbnails for Control Nav
 		pauseOnHover:true, //Stop animation while hovering
-		manualAdvance:true, //Force manual transitions
+		manualAdvance:false, //Force manual transitions
 		beforeChange: function(){},
 		afterChange: function(){},
 		slideshowEnd: function(){} //Triggers after all slides have been shown
