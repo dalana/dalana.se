@@ -32,7 +32,7 @@ $(window).load(function() {
 <div id="slider_wrapper">
 	<div id="slider">
             <a href="#"><img src="/bilder/dalanalogo.png" alt="00" title="Jimmy" /></a>
-            <a href="#"><img src="/bilder/sog.png" alt="01" title="Spel som vara nytt" /></a>
+            <a href="#"><img src="/bilder/sog.png" alt="01" title="Hos oss kan ni också testa det nya spelet Secrets of Grindea som är gjort av Pixel Ferrets!" /></a>
         </div>
 </div>
     
