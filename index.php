@@ -32,8 +32,6 @@ $(window).load(function() {
 <div id="slider_wrapper">
 	<div id="slider">
             <a href="#"><img src="/bilder/dalanalogo.png" alt="00" title="Jimmy" /></a>
-        </div>
-	<div id="slider">
             <a href="#"><img src="/bilder/sog.png" alt="01" title="Spel som vara nytt" /></a>
         </div>
 </div>
