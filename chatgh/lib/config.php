@@ -95,9 +95,9 @@ $config['allowPrivateChannels'] = true;
 $config['allowPrivateMessages'] = true;
 
 // Private channels should be distinguished by either a prefix or a suffix or both (no whitespace):
-$config['privateChannelPrefix'] = '[';
+$config['privateChannelPrefix'] = '';
 // Private channels should be distinguished by either a prefix or a suffix or both (no whitespace):
-$config['privateChannelSuffix'] = ']';
+$config['privateChannelSuffix'] = '';
 
 // If enabled, users will be logged in automatically as guest users (if allowed), if not authenticated:
 $config['forceAutoLogin'] = false;
@@ -114,7 +114,7 @@ $config['openingHour'] = 0;
 // Defines the hour of the day the chat is closed (openingHour - 24):
 $config['closingHour'] = 24;
 // Defines the weekdays the chat is opened (0=Sunday to 6=Saturday):
-$config['openingWeekDays'] = array(0,1,2,3,4,5,6);
+$config['openingWeekDays'] = array(1,2,3,4,5,6,0);
 
 // Enable/Disable guest logins:
 $config['allowGuestLogins'] = true;
@@ -123,18 +123,18 @@ $config['allowGuestWrite'] = true;
 // Allow/Disallow guest users to choose their own userName:
 $config['allowGuestUserName'] = true;
 // Guest users should be distinguished by either a prefix or a suffix or both (no whitespace):
-$config['guestUserPrefix'] = '(';
+$config['guestUserPrefix'] = '';
 // Guest users should be distinguished by either a prefix or a suffix or both (no whitespace):
-$config['guestUserSuffix'] = ')';
+$config['guestUserSuffix'] = '';
 // Guest userIDs may not be lower than this value (and not higher than privateChannelDiff):
 $config['minGuestUserID'] = 400000000;
 
 // Allow/Disallow users to change their userName (Nickname):
 $config['allowNickChange'] = true;
 // Changed userNames should be distinguished by either a prefix or a suffix or both (no whitespace):
-$config['changedNickPrefix'] = '(';
+$config['changedNickPrefix'] = '';
 // Changed userNames should be distinguished by either a prefix or a suffix or both (no whitespace):
-$config['changedNickSuffix'] = ')';
+$config['changedNickSuffix'] = '';
 
 // Allow/Disallow registered users to delete their own messages:
 $config['allowUserMessageDelete'] = true;
@@ -154,16 +154,16 @@ $config['requestMessagesPriorChannelEnter'] = true;
 // Defines an array of channelIDs (e.g. array(0, 1)) for which the previous setting is always true (will be ignored if set to null):
 $config['requestMessagesPriorChannelEnterList'] = null;
 // Max time difference in hours for messages to display on each request:
-$config['requestMessagesTimeDiff'] = 24;
+$config['requestMessagesTimeDiff'] = 240;
 // Max number of messages to display on each request:
-$config['requestMessagesLimit'] = 10;
+$config['requestMessagesLimit'] = 100000000;
 
 // Max users in chat (does not affect moderators or admins):
 $config['maxUsersLoggedIn'] = 200;
 // Max userName length:
 $config['userNameMaxLength'] = 160;
 // Max messageText length:
-$config['messageTextMaxLength'] = 1040;
+$config['messageTextMaxLength'] = 10000000;
 // Defines the max number of messages a user may send per minute:
 $config['maxMessageRate'] = 60;
 
