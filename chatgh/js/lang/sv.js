@@ -60,6 +60,7 @@ var ajaxChatLang = {
 	userMenuKick: 'Sparka ut/Banna',
 	userMenuBans: 'Lista bannade användare',
 	userMenuWhois: 'Visa IP',
+	userMenuForcePCAccess: 'Joina privata kanaler(forced access)', // *** CUSTOM SETTING ***
 	unbanUser: 'Upphäv banningen av %s',
 	joinChannel: 'Anslut till kanalen %s',
 	cite: '%s sa:',
