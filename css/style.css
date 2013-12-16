@@ -14,7 +14,7 @@ body {
 	height: 100%;
 	/* Zack */
 	background-image: linear-gradient(to top, #FFFFFF 0%, #000 100%);
-	background-image:  -webkit-linear-gradient(#000000 , #FFFFFF);
+	background-image:  -webkit-linear-gradient(#F7F7F7 , #000000);
 }
 
 .Frame {
