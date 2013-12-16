@@ -13,7 +13,7 @@ body {
 	background: center top no-repeat;
 	height: 100%;
 	/* Zack */
-	background-image: linear-gradient(to top, #FFFFFF 0%, #000 100%);
+	background-image: linear-gradient(to top, #000000 0%, #F7F7F7 100%);
 	background-image:  -webkit-linear-gradient(#F7F7F7 , #000000);
 }
 
