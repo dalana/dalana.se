@@ -10,11 +10,11 @@ body {
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 13px;
 	line-height: 1.7em; 
-	background: center top no-repeat;
+	background: center top no-repeat fixed;
 	height: 100%;
 	/* Zack */
-	background-image: linear-gradient(to top, #F7F7F7 0%, #000000 100%);
-	background-image:  -webkit-linear-gradient(#F7F7F7 , #000000);
+	background-image: linear-gradient(to bottom, #F7F7F7 0%, #000000 100%);
+	background-image:  -webkit-linear-gradient(#000000 , #F7F7F7);
 }
 
 .Frame {
